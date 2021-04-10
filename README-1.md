@@ -1,11 +1,10 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yzs981130&show_icons=true&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SkyJohn233&show_icons=true&hide_title=true&theme=dark" />
 
 ### Hi there 👋
 
 
-Make bug with ❤️
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=yzs981130 alt=yzs981130/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=SkyJohn233 alt=SkyJohn233/> </p>
 
 
 <!--
